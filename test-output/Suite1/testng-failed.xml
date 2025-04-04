@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Features(failed)">
+    <classes>
+      <class name="Features.Edit_Level">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Edit_Level -->
+      <class name="Features.Build_Audience">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Build_Audience -->
+      <class name="Features.Delete_Level">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Delete_Level -->
+      <class name="Features.Verify_copied_Level">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Verify_copied_Level -->
+      <class name="Features.Select_records">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Select_records -->
+      <class name="Features.Place_order">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Place_order -->
+      <class name="Features.Verify_Level_Created">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Verify_Level_Created -->
+      <class name="Features.Credit_Criteria_Selection">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Credit_Criteria_Selection -->
+      <class name="Features.Create_Level">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Create_Level -->
+      <class name="Features.Copy_Level">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Copy_Level -->
+      <class name="Features.Add_New_Audience_page_navigation">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Add_New_Audience_page_navigation -->
+      <class name="Features.Verifying_deleted_element">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Verifying_deleted_element -->
+      <class name="Features.Verify_updated_Level">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Verify_updated_Level -->
+      <class name="Features.Add_New_Audience_Form">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Add_New_Audience_Form -->
+      <class name="Features.Geography_Selection">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Features.Geography_Selection -->
+    </classes>
+  </test> <!-- Features(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

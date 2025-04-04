@@ -1,0 +1,1 @@
+{"uuid":"579bb9b2-b8f4-48c4-b154-1f9d1f5cc520","name":"Multiple_suite_execution.Login_logout","children":["178589a1-9ffb-441a-9897-7dda2bb22d04"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743578954896,"stop":1743578962155}],"afters":[],"start":1743578954748,"stop":1743578970189}
